@@ -1,2 +1,1 @@
-# INTERNSHIP
-Logistic Regression
+# Movie Recommendation System
